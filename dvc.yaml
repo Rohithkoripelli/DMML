@@ -1,0 +1,19 @@
+stages:
+  load_data:
+    cmd: python Steps1_4.ipynb
+    deps:
+      - data/raw/BankChurnFinal.csv
+      - data/raw/churn_extended.csv
+    outs:
+      - data/processed/db_data.csv
+      - data/processed/fileshare_data.csv
+
+  data_validation:
+    cmd: python data_validation.py
+    deps:
+      - data/processed/db_data.csv
+      - data/processed/fileshare_data.csv
+    outs:
+      - data/final/cleaned_data.csv
+    metrics:
+      - metrics/validation_metrics.json

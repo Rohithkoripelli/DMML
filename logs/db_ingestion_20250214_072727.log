@@ -1,0 +1,306 @@
+2025-02-14 07:28:51,666 - INFO - Batch 1: Inserted 4044 records
+2025-02-14 07:29:33,752 - INFO - Batch 2: Inserted 4043 records
+2025-02-14 07:30:28,640 - INFO - Batch 3: Inserted 4043 records
+2025-02-14 07:31:16,050 - INFO - Batch 4: Inserted 4043 records
+2025-02-14 07:31:16,357 - INFO - DB insertion completed
+2025-02-14 19:11:48,902 - INFO - Read 32345 records from source file
+2025-02-14 19:11:48,924 - INFO - Created 8 splits
+2025-02-14 19:11:48,925 - INFO - Processing batch 5 with 4043 records
+2025-02-14 19:11:48,950 - INFO - Request URL: 'https://customerchurnsource.file.core.windows.net/customerchurnsource/batch_5_20250214_191148.csv'
+Request method: 'PUT'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'x-ms-content-length': 'REDACTED'
+    'x-ms-type': 'REDACTED'
+    'x-ms-file-permission': 'REDACTED'
+    'x-ms-file-attributes': 'REDACTED'
+    'x-ms-file-creation-time': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-file-share/12.20.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '7096a6d8-ead9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-02-14 19:11:50,461 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Last-Modified': 'Fri, 14 Feb 2025 13:41:50 GMT'
+    'ETag': '"0x8DD4CFD55A29991"'
+    'Server': 'Windows-Azure-File/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '19b48b52-301a-002d-4de6-7ea267000000'
+    'x-ms-client-request-id': '7096a6d8-ead9-11ef-a408-6241a593cdd7'
+    'x-ms-version': 'REDACTED'
+    'x-ms-file-change-time': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'x-ms-file-creation-time': 'REDACTED'
+    'x-ms-file-permission-key': 'REDACTED'
+    'x-ms-file-attributes': 'REDACTED'
+    'x-ms-file-id': 'REDACTED'
+    'x-ms-file-parent-id': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 14 Feb 2025 13:41:50 GMT'
+2025-02-14 19:11:50,462 - INFO - Request URL: 'https://customerchurnsource.file.core.windows.net/customerchurnsource/batch_5_20250214_191148.csv?comp=REDACTED'
+Request method: 'PUT'
+Request headers:
+    'Content-Length': '655931'
+    'x-ms-range': 'REDACTED'
+    'x-ms-write': 'REDACTED'
+    'x-ms-version': 'REDACTED'
+    'Content-Type': 'application/octet-stream'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-file-share/12.20.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '717d70d6-ead9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+A body is sent with the request
+2025-02-14 19:11:52,013 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Content-MD5': 'REDACTED'
+    'Last-Modified': 'Fri, 14 Feb 2025 13:41:51 GMT'
+    'ETag': '"0x8DD4CFD568F71EE"'
+    'Server': 'Windows-Azure-File/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '19b48b5d-301a-002d-54e6-7ea267000000'
+    'x-ms-client-request-id': '717d70d6-ead9-11ef-a408-6241a593cdd7'
+    'x-ms-version': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 14 Feb 2025 13:41:51 GMT'
+2025-02-14 19:11:52,014 - INFO - Batch 5: Uploaded 4043 records in 3.06 seconds
+2025-02-14 19:11:52,015 - INFO - Processing batch 6 with 4043 records
+2025-02-14 19:11:52,041 - INFO - Request URL: 'https://customerchurnsource.file.core.windows.net/customerchurnsource/batch_6_20250214_191152.csv'
+Request method: 'PUT'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'x-ms-content-length': 'REDACTED'
+    'x-ms-type': 'REDACTED'
+    'x-ms-file-permission': 'REDACTED'
+    'x-ms-file-attributes': 'REDACTED'
+    'x-ms-file-creation-time': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-file-share/12.20.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '726e4fd8-ead9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-02-14 19:11:53,072 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Last-Modified': 'Fri, 14 Feb 2025 13:41:52 GMT'
+    'ETag': '"0x8DD4CFD57327472"'
+    'Server': 'Windows-Azure-File/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '5aba17af-701a-004e-40e6-7e3f9c000000'
+    'x-ms-client-request-id': '726e4fd8-ead9-11ef-a408-6241a593cdd7'
+    'x-ms-version': 'REDACTED'
+    'x-ms-file-change-time': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'x-ms-file-creation-time': 'REDACTED'
+    'x-ms-file-permission-key': 'REDACTED'
+    'x-ms-file-attributes': 'REDACTED'
+    'x-ms-file-id': 'REDACTED'
+    'x-ms-file-parent-id': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 14 Feb 2025 13:41:52 GMT'
+2025-02-14 19:11:53,074 - INFO - Request URL: 'https://customerchurnsource.file.core.windows.net/customerchurnsource/batch_6_20250214_191152.csv?comp=REDACTED'
+Request method: 'PUT'
+Request headers:
+    'Content-Length': '656860'
+    'x-ms-range': 'REDACTED'
+    'x-ms-write': 'REDACTED'
+    'x-ms-version': 'REDACTED'
+    'Content-Type': 'application/octet-stream'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-file-share/12.20.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '730bf7ce-ead9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+A body is sent with the request
+2025-02-14 19:11:59,571 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Content-MD5': 'REDACTED'
+    'Last-Modified': 'Fri, 14 Feb 2025 13:41:59 GMT'
+    'ETag': '"0x8DD4CFD5B10F9F9"'
+    'Server': 'Windows-Azure-File/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '5aba17b4-701a-004e-41e6-7e3f9c000000'
+    'x-ms-client-request-id': '730bf7ce-ead9-11ef-a408-6241a593cdd7'
+    'x-ms-version': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 14 Feb 2025 13:41:58 GMT'
+2025-02-14 19:11:59,573 - INFO - Batch 6: Uploaded 4043 records in 7.53 seconds
+2025-02-14 19:11:59,574 - INFO - Processing batch 7 with 4043 records
+2025-02-14 19:11:59,602 - INFO - Request URL: 'https://customerchurnsource.file.core.windows.net/customerchurnsource/batch_7_20250214_191159.csv'
+Request method: 'PUT'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'x-ms-content-length': 'REDACTED'
+    'x-ms-type': 'REDACTED'
+    'x-ms-file-permission': 'REDACTED'
+    'x-ms-file-attributes': 'REDACTED'
+    'x-ms-file-creation-time': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-file-share/12.20.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '76f01438-ead9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-02-14 19:12:00,754 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Last-Modified': 'Fri, 14 Feb 2025 13:42:00 GMT'
+    'ETag': '"0x8DD4CFD5BBF8877"'
+    'Server': 'Windows-Azure-File/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '1f1f43fc-b01a-006e-5de6-7e443b000000'
+    'x-ms-client-request-id': '76f01438-ead9-11ef-a408-6241a593cdd7'
+    'x-ms-version': 'REDACTED'
+    'x-ms-file-change-time': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'x-ms-file-creation-time': 'REDACTED'
+    'x-ms-file-permission-key': 'REDACTED'
+    'x-ms-file-attributes': 'REDACTED'
+    'x-ms-file-id': 'REDACTED'
+    'x-ms-file-parent-id': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 14 Feb 2025 13:42:00 GMT'
+2025-02-14 19:12:00,758 - INFO - Request URL: 'https://customerchurnsource.file.core.windows.net/customerchurnsource/batch_7_20250214_191159.csv?comp=REDACTED'
+Request method: 'PUT'
+Request headers:
+    'Content-Length': '656176'
+    'x-ms-range': 'REDACTED'
+    'x-ms-write': 'REDACTED'
+    'x-ms-version': 'REDACTED'
+    'Content-Type': 'application/octet-stream'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-file-share/12.20.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '77a08282-ead9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+A body is sent with the request
+2025-02-14 19:12:02,362 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Content-MD5': 'REDACTED'
+    'Last-Modified': 'Fri, 14 Feb 2025 13:42:02 GMT'
+    'ETag': '"0x8DD4CFD5CBA0CD1"'
+    'Server': 'Windows-Azure-File/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '1f1f43ff-b01a-006e-5ee6-7e443b000000'
+    'x-ms-client-request-id': '77a08282-ead9-11ef-a408-6241a593cdd7'
+    'x-ms-version': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 14 Feb 2025 13:42:01 GMT'
+2025-02-14 19:12:02,367 - INFO - Batch 7: Uploaded 4043 records in 2.76 seconds
+2025-02-14 19:12:02,368 - INFO - Processing batch 8 with 4043 records
+2025-02-14 19:12:02,398 - INFO - Request URL: 'https://customerchurnsource.file.core.windows.net/customerchurnsource/batch_8_20250214_191202.csv'
+Request method: 'PUT'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'x-ms-content-length': 'REDACTED'
+    'x-ms-type': 'REDACTED'
+    'x-ms-file-permission': 'REDACTED'
+    'x-ms-file-attributes': 'REDACTED'
+    'x-ms-file-creation-time': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-file-share/12.20.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '789aa5f0-ead9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-02-14 19:12:03,619 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Last-Modified': 'Fri, 14 Feb 2025 13:42:03 GMT'
+    'ETag': '"0x8DD4CFD5D797842"'
+    'Server': 'Windows-Azure-File/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '2b4e7a52-701a-0013-3ce6-7e3518000000'
+    'x-ms-client-request-id': '789aa5f0-ead9-11ef-a408-6241a593cdd7'
+    'x-ms-version': 'REDACTED'
+    'x-ms-file-change-time': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'x-ms-file-creation-time': 'REDACTED'
+    'x-ms-file-permission-key': 'REDACTED'
+    'x-ms-file-attributes': 'REDACTED'
+    'x-ms-file-id': 'REDACTED'
+    'x-ms-file-parent-id': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 14 Feb 2025 13:42:02 GMT'
+2025-02-14 19:12:03,621 - INFO - Request URL: 'https://customerchurnsource.file.core.windows.net/customerchurnsource/batch_8_20250214_191202.csv?comp=REDACTED'
+Request method: 'PUT'
+Request headers:
+    'Content-Length': '657596'
+    'x-ms-range': 'REDACTED'
+    'x-ms-write': 'REDACTED'
+    'x-ms-version': 'REDACTED'
+    'Content-Type': 'application/octet-stream'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-file-share/12.20.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '79555b8e-ead9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+A body is sent with the request
+2025-02-14 19:12:05,142 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Content-MD5': 'REDACTED'
+    'Last-Modified': 'Fri, 14 Feb 2025 13:42:05 GMT'
+    'ETag': '"0x8DD4CFD5E639444"'
+    'Server': 'Windows-Azure-File/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '2b4e7a55-701a-0013-3de6-7e3518000000'
+    'x-ms-client-request-id': '79555b8e-ead9-11ef-a408-6241a593cdd7'
+    'x-ms-version': 'REDACTED'
+    'x-ms-file-last-write-time': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 14 Feb 2025 13:42:04 GMT'
+2025-02-14 19:12:05,145 - INFO - Batch 8: Uploaded 4043 records in 2.75 seconds
+2025-02-14 19:12:05,146 - INFO - File Share ingestion completed
+2025-02-14 19:12:05,147 - INFO - Successfully processed batches: [5, 6, 7, 8]
+2025-02-14 21:02:41,703 - INFO - Fetching data from DB
+2025-02-14 21:02:57,473 - ERROR - Data Lake ingestion failed: (pyodbc.OperationalError) ('HYT00', '[HYT00] [Microsoft][ODBC Driver 18 for SQL Server]Login timeout expired (0) (SQLDriverConnect)')
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-02-14 21:03:52,203 - INFO - Fetching data from DB
+2025-02-14 21:05:28,539 - INFO - Request URL: 'https://YOUR_ACCOUNT.dfs.core.windows.net/customerchurn/raw%2Fsource%3Ddb%2Fyear%3D2025%2Fmonth%3D02%2Fday%3D14%2Fhour%3D21%2Fdata_20250214_210524.parquet?resource=REDACTED'
+Request method: 'PUT'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/json'
+    'User-Agent': 'azsdk-python-storage-dfs/12.18.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '51616126-eae9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-02-14 21:05:44,646 - INFO - Request URL: 'https://YOUR_ACCOUNT.dfs.core.windows.net/customerchurn/raw%2Fsource%3Ddb%2Fyear%3D2025%2Fmonth%3D02%2Fday%3D14%2Fhour%3D21%2Fdata_20250214_210524.parquet?resource=REDACTED'
+Request method: 'PUT'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/json'
+    'User-Agent': 'azsdk-python-storage-dfs/12.18.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '5afb1434-eae9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-02-14 21:06:06,202 - INFO - Request URL: 'https://YOUR_ACCOUNT.dfs.core.windows.net/customerchurn/raw%2Fsource%3Ddb%2Fyear%3D2025%2Fmonth%3D02%2Fday%3D14%2Fhour%3D21%2Fdata_20250214_210524.parquet?resource=REDACTED'
+Request method: 'PUT'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/json'
+    'User-Agent': 'azsdk-python-storage-dfs/12.18.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '67d452b0-eae9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-02-14 21:06:50,617 - INFO - Request URL: 'https://YOUR_ACCOUNT.dfs.core.windows.net/customerchurn/raw%2Fsource%3Ddb%2Fyear%3D2025%2Fmonth%3D02%2Fday%3D14%2Fhour%3D21%2Fdata_20250214_210524.parquet?resource=REDACTED'
+Request method: 'PUT'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/json'
+    'User-Agent': 'azsdk-python-storage-dfs/12.18.1 Python/3.9.6 (macOS-15.1-arm64-arm-64bit)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '824d6f6e-eae9-11ef-a408-6241a593cdd7'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2025-02-14 21:06:50,901 - ERROR - Data Lake ingestion failed: <urllib3.connection.HTTPSConnection object at 0x12ab59c40>: Failed to resolve 'your_account.dfs.core.windows.net' ([Errno 8] nodename nor servname provided, or not known)
