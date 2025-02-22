@@ -1,0 +1,5 @@
+[core]
+    remote = azure
+['remote "azure"']
+    url = azure://customerchurn/dvcstore
+    connection_string = DefaultEndpointsProtocol=https;AccountName=churndest;AccountKey=y8ZXlGbsdIX6Z7sP0/2VMxL9+7NKTLv4M6fvbhczK8T+fP/LJXfuvturAeghXm+89QAmosxQS8+/+AStywM6UQ==;EndpointSuffix=core.windows.net
